@@ -4,9 +4,10 @@
 1408331039 source:c:\users\carlos\documents\carlos\sae\gpd\trimestre 02\10711-ramiro-carlos-gómez-chong-gpd0113\of_v0.8.0_win_cb_release\of_v0.8.0_win_cb_release\apps\myapps\engine2d\src\enginemanager.cpp
 	"EngineManager.h"
 
-1408331039 c:\users\carlos\documents\carlos\sae\gpd\trimestre 02\10711-ramiro-carlos-gómez-chong-gpd0113\of_v0.8.0_win_cb_release\of_v0.8.0_win_cb_release\apps\myapps\engine2d\include\enginemanager.h
+1410145836 c:\users\carlos\documents\carlos\sae\gpd\trimestre 02\10711-ramiro-carlos-gómez-chong-gpd0113\of_v0.8.0_win_cb_release\of_v0.8.0_win_cb_release\apps\myapps\engine2d\include\enginemanager.h
 	"RenderManager.h"
 	"FileManager.h"
+	"LoggerManager.h"
 	"myApplication.h"
 	"ofMain.h"
 
@@ -1021,7 +1022,7 @@
 	"ofTexture.h"
 	"ofMesh.h"
 
-1376316786 c:\users\carlos\documents\carlos\sae\gpd\trimestre 02\10711-ramiro-carlos-gómez-chong-gpd0113\of_v0.8.0_win_cb_release\of_v0.8.0_win_cb_release\libs\openframeworks\app\ofbaseapp.h
+1409893736 c:\users\carlos\documents\carlos\sae\gpd\trimestre 02\10711-ramiro-carlos-gómez-chong-gpd0113\of_v0.8.0_win_cb_release\of_v0.8.0_win_cb_release\libs\openframeworks\app\ofbaseapp.h
 	"ofPoint.h"
 	"ofEvents.h"
 	"ofBaseTypes.h"
@@ -1502,7 +1503,7 @@
 	<fstream>
 	<iostream>
 
-1408762720 source:c:\users\carlos\documents\carlos\sae\gpd\trimestre 02\10711-ramiro-carlos-gómez-chong-gpd0113\of_v0.8.0_win_cb_release\of_v0.8.0_win_cb_release\apps\myapps\engine2d\src\main.cpp
+1410145145 source:c:\users\carlos\documents\carlos\sae\gpd\trimestre 02\10711-ramiro-carlos-gómez-chong-gpd0113\of_v0.8.0_win_cb_release\of_v0.8.0_win_cb_release\apps\myapps\engine2d\src\main.cpp
 	"EngineManager.h"
 
 1408754451 source:c:\users\carlos\documents\carlos\sae\gpd\trimestre 02\10711-ramiro-carlos-gómez-chong-gpd0113\of_v0.8.0_win_cb_release\of_v0.8.0_win_cb_release\apps\myapps\engine2d\src\myapplication.cpp
@@ -1512,4 +1513,13 @@
 	"RenderManager.h"
 	"ofGraphics.h"
 	"ofImage.h"
+
+1410145916 c:\users\carlos\documents\carlos\sae\gpd\trimestre 02\10711-ramiro-carlos-gómez-chong-gpd0113\of_v0.8.0_win_cb_release\of_v0.8.0_win_cb_release\apps\myapps\engine2d\include\loggermanager.h
+	<string>
+
+1410145789 source:c:\users\carlos\documents\carlos\sae\gpd\trimestre 02\10711-ramiro-carlos-gómez-chong-gpd0113\of_v0.8.0_win_cb_release\of_v0.8.0_win_cb_release\apps\myapps\engine2d\src\loggermanager.cpp
+	"LoggerManager.h"
+	<stdio.h>
+	<windows.h>
+	<iostream>
 

@@ -20,6 +20,8 @@ int main(int argc,char* argv[]){
 	}
 	std::cout<<"resx: "<<settings[0]<<std::endl;
 	std::cout<<"resy: "<<settings[1]<<std::endl;
+	LoggerManager::PrintString("Error",0x0c);
+
 	ofSetupOpenGL(1024,768,OF_WINDOW);			// <-------- setup the GL context
 
 	// this kicks off the running of my app

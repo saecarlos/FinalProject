@@ -122,10 +122,12 @@
 		</Unit>
 		<Unit filename="include/EngineManager.h" />
 		<Unit filename="include/FileManager.h" />
+		<Unit filename="include/LoggerManager.h" />
 		<Unit filename="include/RenderManager.h" />
 		<Unit filename="include/myApplication.h" />
 		<Unit filename="src/EngineManager.cpp" />
 		<Unit filename="src/FileManager.cpp" />
+		<Unit filename="src/LoggerManager.cpp" />
 		<Unit filename="src/RenderManager.cpp" />
 		<Unit filename="src/main.cpp">
 			<Option virtualFolder="src" />
